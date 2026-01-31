@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
 
-**A stunning, real-time web-based scoreboard for ARRL Field Day events using N3FJP logging software**
+**A fun, real-time web-based scoreboard for ARRL Field Day events using N3FJP logging software**
 
 [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Configuration](#-configuration) • [Usage](#-usage)
 
@@ -17,7 +17,7 @@
 
 ## 🌟 Overview
 
-Transform your Field Day operation with this professional, real-time scoreboard that connects directly to N3FJP's API. Display live statistics, operator performance, band activity, and worldwide contacts on any screen - from laptops to 4K TVs!
+Transform your Field Day operation with this techy, real-time scoreboard that connects directly to N3FJP's API. Display live statistics, operator performance, band activity, and worldwide contacts on any screen - from laptops to 4K TVs!
 
 **Built for clubs who want to:**
 - 🎯 Engage operators with real-time stats and milestones
