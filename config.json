@@ -1,0 +1,48 @@
+{
+  "n3fjp_host": "127.0.0.1",
+  "n3fjp_port": 1100,
+  "seed_count": 5000,
+  "tail_count": 80,
+  "refresh_seconds": 3,
+  "web_host": "0.0.0.0",
+  "web_port": 8080,
+
+  "seed_total_timeout": 60.0,
+  "seed_idle_timeout": 1.75,
+  "poll_total_timeout": 8.0,
+  "poll_idle_timeout": 1.0,
+
+  "club_name": "Your Amateur Radio Club",
+  "callsign": "ME0W",
+  "event_name": "Winter Field Day 2026",
+  "home_lat": 41.3,
+  "home_lon": -88.4,
+  "home_location": "McHenry, IL",
+
+  "field_day_class": "2O",
+  "emergency_power": true,
+  "media_publicity": false,
+  "public_location": true,
+  "public_information_table": true,
+  "nts_message_originated": 10,
+  "nts_message_handled": 10,
+  "satellite_qso": false,
+  "w1aw_bulletin": false,
+  "educational_activity": false,
+  "social_media": true,
+  "youth_participation": true,
+  "site_visit_official": false,
+  
+  "weather_enabled": true,
+  
+  "band_goals": {
+    "160": 5,
+    "80": 50,
+    "40": 100,
+    "20": 200,
+    "15": 50,
+    "10": 50,
+    "6": 10,
+    "2": 5
+  }
+}
